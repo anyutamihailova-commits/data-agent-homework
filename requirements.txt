@@ -1,0 +1,6 @@
+streamlit
+altair
+google-genai
+psycopg[binary]
+pandas
+python-dotenv
